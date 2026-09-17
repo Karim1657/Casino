@@ -16,8 +16,8 @@ logging.basicConfig(
 )
 
 # ⚙️ কনফিগারেশন (আপনার তথ্য এখানে বসান)
-TOKEN = "YOUR_BOT_TOKEN_HERE"          # BotFather থেকে পাওয়া টোকেন
-ADMIN_CHAT_ID = 123456789              # এডমিনের টেলিগ্রাম ইউজার আইডি (সংখ্যায়)
+TOKEN = "8784746592:AAHhR2idQb-TAlortfY57OeUQV8WY6OdpmU"          # BotFather থেকে পাওয়া টোকেন
+ADMIN_CHAT_ID = 5756962746              # এডমিনের টেলিগ্রাম ইউজার আইডি (সংখ্যায়)
 
 # 🎰 ক্যাসিনো সাইটসমূহের সম্পূর্ণ তালিকা
 CASINO_SITES = [
